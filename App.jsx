@@ -20,7 +20,7 @@ import { io } from "socket.io-client";
   URL (the wisp-backend project) once it's live, e.g.
   "https://wisp-backend.up.railway.app".
 */
-const BACKEND_URL = "https://web-production-c0a50.up.railway.app";
+const BACKEND_URL = "https://web-production-b0d998.up.railway.app";
 
 /*
   One socket connection for the whole app, created lazily so it doesn't
